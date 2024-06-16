@@ -1,0 +1,105 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Chicken Stir Fry",
+    "recipe_image": "https://imgbb.host/images/6Gbk.jpeg",
+    "short_description": "A quick and delicious chicken stir-fry packed with flavors.",
+    "ingredients": [
+      "400g chicken",
+      "3 tbsp soy sauce",
+      "1 cup basil leaf",
+      "200g mushroom",
+      "1 large bell pepper",
+      "3 cloves garlic",
+      "1-inch piece ginger",
+      "1 large onion"
+    ],
+    "preparing_time": 30,
+    "calories": 350
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Vegetable Lasagna",
+    "recipe_image": "https://imgbb.host/images/6FJG.jpeg",
+    "short_description": "Layers of pasta, vegetables, and cheese baked to perfection.",
+    "ingredients": [
+      "9 sheets lasagna noodles",
+      "2 cups tomato sauce",
+      "1 large zucchini",
+      "1 medium eggplant",
+      "2 cups spinach",
+      "1 cup ricotta cheese",
+      "1 cup mozzarella cheese",
+      "1/2 cup parmesan cheese"
+    ],
+    "preparing_time": 40,
+    "calories": 400
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Grilled Salmon",
+    "recipe_image": "https://imgbb.host/images/6Oj6.webp",
+    "short_description": "Tender grilled salmon seasoned with fresh lemon.",
+    "ingredients": [
+      "4 fillets salmon",
+      "1 lemon",
+      "2 tbsp olive oil",
+      "1 tsp salt",
+      "1/2 tsp black pepper"
+    ],
+    "preparing_time": 20,
+    "calories": 300
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Caprese Salad",
+    "recipe_image": "https://imgbb.host/images/66Gp.jpeg",
+    "short_description": "A classic Italian salad with fresh tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "4 medium tomatoes",
+      "200g mozzarella cheese",
+      "1 cup basil leaves",
+      "2 tbsp balsamic vinegar",
+      "2 tbsp olive oil",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "preparing_time": 15,
+    "calories": 200
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Pasta Carbonara",
+    "recipe_image": "https://imgbb.host/images/67Cc.jpeg",
+    "short_description": "Creamy pasta dish with bacon, eggs, and parmesan cheese.",
+    "ingredients": [
+      "200g spaghetti",
+      "150g bacon",
+      "3 eggs",
+      "1 cup parmesan cheese",
+      "2 cloves garlic",
+      "1/2 tsp black pepper",
+      "2 tbsp parsley"
+    ],
+    "preparing_time": 25,
+    "calories": 450
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Greek Salad",
+    "recipe_image": "https://imgbb.host/images/6DqZ.jpeg",
+    "short_description": "Fresh and tangy salad with cucumbers, tomatoes, olives, and feta cheese.",
+    "ingredients": [
+      "2 large cucumbers",
+      "2 large tomatoes",
+      "1 small red onion",
+      "1/2 cup kalamata olives",
+      "200g feta cheese",
+      "2 tbsp olive oil",
+      "2 tbsp red wine vinegar",
+      "1 tsp oregano"
+    ],
+    "preparing_time": 15,
+    "calories": 250
+  }
+]
